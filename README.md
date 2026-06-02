@@ -1,6 +1,6 @@
 # A Supervised Intrusion Detection System for Smart Home IoT Devices
 
-This repository contains the complete source code, hardware architecture, and research documentation for an advanced, dual-layered IoT Smart Home Security and Fire Safety System[cite: 1]. 
+This repository contains the complete source code, hardware architecture, and research documentation for an advanced, dual-layered IoT Smart Home Security and Fire Safety System. 
 
 The system mitigates traditional camera "cold start" initialization latencies by utilizing an ESP32 edge microcontroller alongside a multi-threaded Python supervisor application to achieve near-instantaneous forensic image capture and transmission.
 
