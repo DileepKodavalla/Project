@@ -15,6 +15,7 @@ The system mitigates traditional camera "cold start" initialization latencies by
 
 ### 🎥 Project Demo Video
 ![Project Demo Video](./demo.mp4)
+
 Demo Google Drive Link
 [View Demo](https://drive.google.com/file/d/1-wo5X429It4q3Qu3GdqpyYMeq23NWzDu/view?usp=sharing) 
 
