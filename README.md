@@ -8,10 +8,10 @@ The system mitigates traditional camera "cold start" initialization latencies by
 
 ## 📂 Project Deliverables & Resources
 
-* **📄 Published Research Paper:** [Read b2final.pdf](./b2final.pdf)
+* **📄 Published Research Paper:** [Read IJERT_paper.pdf](./IJERT_paper.pdf)
 * **🌐 Official Publication Link:** [View Paper on IJERT](PASTE_YOUR_IJERT_URL_HERE)
-* **📊 Project Presentation:** [Download Presentation PPT](./project_presentation.pptx)
-* **📋 Full Project Report:** [Read Project Report PDF](./project_report.pdf)
+* **📊 Project Presentation:** [Download Presentation PPT](./Presentation.pptx)
+* **📋 Full Project Report:** [Read Project Report PDF](./Report.pdf)
 
 ### 🎥 Project Demo Video
 ![Project Demo Video](./demo.mp4)
