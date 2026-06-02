@@ -9,12 +9,13 @@ The system mitigates traditional camera "cold start" initialization latencies by
 ## 📂 Project Deliverables & Resources
 
 * **📄 Published Research Paper:** [Read IJERT_paper.pdf](./IJERT_paper.pdf)
-* **🌐 Official Publication Link:** [View Paper on IJERT](PASTE_YOUR_IJERT_URL_HERE)
+* **🌐 Official Publication Link:** [View Paper on IJERT](https://www.ijert.org/a-supervised-intrusion-detection-system-for-smart-home-iot-devices-ijertv15is031216)
 * **📊 Project Presentation:** [Download Presentation PPT](./Presentation.pptx)
 * **📋 Full Project Report:** [Read Project Report PDF](./Report.pdf)
 
 ### 🎥 Project Demo Video
 ![Project Demo Video](./demo.mp4)
+[View Demo on Google Drive](https://drive.google.com/file/d/1-wo5X429It4q3Qu3GdqpyYMeq23NWzDu/view?usp=sharing) 
 
 ---
 
