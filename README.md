@@ -36,9 +36,3 @@ The project is structured across a specialized four-layer IoT framework:
 * **False-Positive Mitigation:** Utilizes hardware spatial filtering and analog thresholding to eliminate environmental noise while maintaining a 100% reliability rate for actual breach events.
 
 ---
-
-## 📂 Repository Structure
-
-* `/hardware_firmware` : Contains the `.ino` source code compiled via the Arduino IDE for the ESP32 edge processing.
-* `/python_supervisor` : Contains the multi-threaded Python application script handling the serial handshake and camera frame-grab.
-* `/documentation` : Houses the project slide deck, full report, and the published research paper.
